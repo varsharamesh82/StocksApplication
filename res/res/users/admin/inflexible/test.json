@@ -1,0 +1,1 @@
+{"stocks":[{"transaction_date":"2022-10-31","quantity":100,"stock_name":"AMZN","price":102.44,"operation":"PORTFOLIO"},{"transaction_date":"2022-10-25","quantity":100,"stock_name":"GOOG","price":104.93,"operation":"PORTFOLIO"},{"transaction_date":"2022-10-27","quantity":200,"stock_name":"TSLA","price":225.09,"operation":"PORTFOLIO"}]}
